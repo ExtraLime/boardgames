@@ -1,6 +1,6 @@
 # boardgames
-This is a repository for a boardgame recomender.
-###The Data
+This is a repository for a boardgame recomender. 
+### The Data
 The data was scraped from boardgamegeeks.com and the rank of each was the rank on Wed, Jan 8th.
 The attributes that were scraped include:
 index - numbered index
