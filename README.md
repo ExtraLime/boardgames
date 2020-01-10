@@ -18,6 +18,12 @@ index - numbered index
 11. totalvotes - total number of community vote 
 12. playerage - minimum age requirement per the community
 13. languagedependence - a rank of amount of in-game text is required during game play
+  + '(no votes)':0,
+  + 'Extensive use of text - massive conversion needed to be playable':4,
+  + 'Moderate in-game text - needs crib sheet or paste ups':3,
+  + 'No necessary in-game text':1,
+  + 'Some necessary text - easily memorized or small crib sheet':2,
+  + 'Unplayable in another language':5
 14. userrated - number of users that have rated the game
 15. average - user average rating from 1-10
 16. baverage - from the site, determined to be an anti-skewing effort by bgg with system added mid range ratings (from 1-10)
