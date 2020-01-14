@@ -57,4 +57,8 @@ index - numbered index
 44. boardgamehonor - list of awards
 45. boardgamecategory - list of categories
 46. boardgameversion - list of versions
-47. description - full text description of game
+47. boardgamemechanic - a list of mechanics 
+48. boardgameexpansion - a list of expansions
+49. boardgamefamily - a list of boardgames family
+50. description - full text description of game
+51. gamelink - a link to the game on bgg
